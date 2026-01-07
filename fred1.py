@@ -1,4 +1,4 @@
 Fred has three kids
-Adoree
-Jaida
-Zade
+Adoree: first grade
+Jaida: first grade 
+Zade: pre K
